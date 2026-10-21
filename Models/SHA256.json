@@ -1,0 +1,14 @@
+{
+  "DepthPolyp_Kvasir_coreml_fp16.mlpackage/Data/com.apple.CoreML/model.mlmodel": {
+    "bytes": 182524,
+    "sha256": "5c16bfcb090f850c1aafe2537e42540d2b14b113d00c3ffab7f4531e36d700c1"
+  },
+  "DepthPolyp_Kvasir_coreml_fp16.mlpackage/Data/com.apple.CoreML/weights/weight.bin": {
+    "bytes": 7157312,
+    "sha256": "829179ddf771a6ccb6c9f3a2c37b3b2ea5db408e5cbfbd94b6b6a9e67e9e27fc"
+  },
+  "DepthPolyp_Kvasir_coreml_fp16.mlpackage/Manifest.json": {
+    "bytes": 617,
+    "sha256": "aef7925413968ee60c3bd1748fda2dc7ee7790a8471b7726ef6e6691cd0e7e48"
+  }
+}

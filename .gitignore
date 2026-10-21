@@ -1,0 +1,10 @@
+.DS_Store
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.ipa
+*.dSYM/
+*.xcarchive/
+*.mlmodelc/
+__pycache__/
